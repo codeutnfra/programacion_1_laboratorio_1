@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1451527184 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_05/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"utn.h"
+
+1451854936 
+
+1451527208 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_05/utn.c
+	<stdio.h>
+	<stdlib.h>
+
+1451520881 /Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_05/utn.h
+
+1451687760 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_07/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"utn.h"
+
+1451596074 /Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_07/utn.h
+
+1451596090 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_07/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1451855142 source:d:\clase_07\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"utn.h"
+
+1451853667 d:\clase_07\utn.h
+
+1451854936 source:d:\clase_07\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1451855160 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_08/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1451947994 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_08/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"utn.h"
+
+1451853666 /Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_08/utn.h
+
+1451952823 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_11/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1451952775 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_11/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"utn.h"
+
+1451952729 /Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_11/utn.h
+
+1451952823 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_12/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1451958761 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_12/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"utn.h"
+	"commerce.h"
+
+1451952729 /Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_12/utn.h
+
+1451958673 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_12/commerce.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"utn.h"
+	"commerce.h"
+
+1451958662 /Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_12/commerce.h
+

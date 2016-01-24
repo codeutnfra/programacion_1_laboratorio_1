@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1452442281 source:d:\ejercicios\ejercicios_videos_utnfra\clase_17\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

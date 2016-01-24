@@ -1,0 +1,5 @@
+ancho=320
+alto=240
+dpi=180
+pulgadas=5.6
+modelo=xt610

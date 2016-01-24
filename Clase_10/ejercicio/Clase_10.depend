@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1451422490 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_04/utn.c
+	<stdio.h>
+	<stdlib.h>
+
+1451421159 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_04/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utn.h"
+
+1451404032 /Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_04/utn.h
+
+1451592780 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_09/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1451590501 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_09/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"juego.h"
+
+1451592327 /Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_09/utn.h
+
+1451590430 /Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_09/juego.h
+
+1451592534 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_09/juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"juego.h"
+
+1452218017 source:/Users/Mauro/Documents/workspace_curso_c/ejercicios_videos_utnfra/Clase_10/juego.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	"utn.h"
+	"juego.h"
+
+1452210112 /Users/Mauro/Documents/workspace_curso_c/ejercicios_videos_utnfra/Clase_10/utn.h
+
+1452218017 /Users/Mauro/Documents/workspace_curso_c/ejercicios_videos_utnfra/Clase_10/juego.h
+
+1452127391 source:/Users/Mauro/Documents/workspace_curso_c/ejercicios_videos_utnfra/Clase_10/borrar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"borrar.h"
+
+1452127391 /Users/Mauro/Documents/workspace_curso_c/ejercicios_videos_utnfra/Clase_10/borrar.h
+	<float.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1452210112 source:/Users/Mauro/Documents/workspace_curso_c/ejercicios_videos_utnfra/Clase_10/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1452299169 source:/Users/Mauro/Documents/workspace_curso_c/ejercicios_videos_utnfra/Clase_10/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	"utn.h"
+	"game.h"
+
+1452299169 /Users/Mauro/Documents/workspace_curso_c/ejercicios_videos_utnfra/Clase_10/game.h
+
+1452300643 source:/Users/Mauro/Documents/workspace_curso_c/ejercicios_videos_utnfra/Clase_10/game.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	"utn.h"
+	"game.h"
+
+1452644662 source:/Users/Mauro/Documents/workspace_videos_c/ejercicios_videos_utnfra/Clase_10/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	"utn.h"
+	"game.h"
+
+1452637071 /Users/Mauro/Documents/workspace_videos_c/ejercicios_videos_utnfra/Clase_10/utn.h
+
+1452644206 /Users/Mauro/Documents/workspace_videos_c/ejercicios_videos_utnfra/Clase_10/game.h
+
+1452637056 source:/Users/Mauro/Documents/workspace_videos_c/ejercicios_videos_utnfra/Clase_10/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1452643965 source:/Users/Mauro/Documents/workspace_videos_c/ejercicios_videos_utnfra/Clase_10/game.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	"utn.h"
+	"game.h"
+	<windows.h>
+

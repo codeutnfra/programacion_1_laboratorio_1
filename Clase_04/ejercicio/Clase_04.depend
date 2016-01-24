@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1451405775 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_03/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1451404032 /Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_03/utn.h
+
+1451405406 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_03/utn.c
+	<stdio.h>
+	<stdlib.h>
+
+1451591934 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_04/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1451591816 /Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_04/utn.h
+
+1451592167 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_04/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1452460582 source:/Users/Mauro/Documents/workspace_videos_c/ejercicios_videos_utnfra/Clase_04/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1452556832 /Users/Mauro/Documents/workspace_videos_c/ejercicios_videos_utnfra/Clase_04/utn.h
+

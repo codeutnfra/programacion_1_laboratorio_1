@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1451422490 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_04/utn.c
+	<stdio.h>
+	<stdlib.h>
+
+1451421159 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_04/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utn.h"
+
+1451404032 /Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_04/utn.h
+
+1451592780 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_09/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1451590501 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_09/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"juego.h"
+
+1451592327 /Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_09/utn.h
+
+1451590430 /Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_09/juego.h
+
+1451592534 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_09/juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"juego.h"
+
+1452641299 source:/Users/Mauro/Documents/workspace_videos_c/ejercicios_videos_utnfra/Clase_09/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1452641243 source:/Users/Mauro/Documents/workspace_videos_c/ejercicios_videos_utnfra/Clase_09/juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"juego.h"
+
+1452636990 /Users/Mauro/Documents/workspace_videos_c/ejercicios_videos_utnfra/Clase_09/utn.h
+
+1452641219 /Users/Mauro/Documents/workspace_videos_c/ejercicios_videos_utnfra/Clase_09/juego.h
+
+1452641750 source:/Users/Mauro/Documents/workspace_videos_c/ejercicios_videos_utnfra/Clase_09/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"juego.h"
+

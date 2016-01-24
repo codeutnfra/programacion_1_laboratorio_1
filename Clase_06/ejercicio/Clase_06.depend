@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1451527184 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_05/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"utn.h"
+
+1451527208 source:/Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_05/utn.c
+	<stdio.h>
+	<stdlib.h>
+
+1451520881 /Users/Mauro/Documents/workspace_curso_c/Ejercicios_para_videos/Clase_05/utn.h
+
