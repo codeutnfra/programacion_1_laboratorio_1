@@ -25,4 +25,4 @@ Documentar las funciones al estilo Doxygen
 #### Aspectos a destacar:
 *   Declaración de funciones que devuelven y reciben valores
 *   Hacer notar que el uso de funciones evita el código repetido y ayuda a que el mismo sea mas legible
-*   La función deberi´a comenzar indicando el objetivo que persigue y el significado de sus parámetros.
+*   La función debería comenzar indicando el objetivo que persigue y el significado de sus parámetros.
