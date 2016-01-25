@@ -5,7 +5,7 @@
 #### Apuntes:
 
 En el directorio "apuntes" se podrán encontrar los siguientes archivos:
-* -
+* Memoria.pdf
 
 #### Video tutoriales:
 
